@@ -73,3 +73,11 @@ crashlytics-build.properties
 
 # Blender
 *.blend1
+
+
+# litToon
+atelier-of-amabie/Assets/csc.rsp
+atelier-of-amabie/Assets/csc.rsp.meta
+atelier-of-amabie/Assets/lilToon.meta
+atelier-of-amabie/Assets/lilToon/
+atelier-of-amabie/ProjectSettings/lilToonSetting.json
