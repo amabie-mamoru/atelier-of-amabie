@@ -6,3 +6,5 @@
 
 * [@lilxyzw](https://github.com/lilxyzw) さんの lilToon シェーダーをお借りしています ( [Booth - unitypackage 版](https://lilxyzw.booth.pm/items/3087170) )
   * エラーが出る場合、インストールを試みてください
+* Picola inc. の [Pico ちゃん](https://assetstore.unity.com/packages/3d/characters/humanoids/picochan-220038) をお借りしています
+  * エラーが出る場合、インストールを試みてください
