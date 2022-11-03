@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/2022-09-01/Whimsicott.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/2022-09-03/Apple.unity
     guid: edb9dce19f3f3443da95e091994691ba
+  - enabled: 1
+    path: Assets/Scenes/2022-11-01/Scenes/RenderingBenchmark.unity
+    guid: a3e80aa66f6894a25b8be516b768ca19
   m_configObjects: {}

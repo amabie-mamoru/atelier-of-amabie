@@ -85,3 +85,14 @@ atelier-of-amabie/ProjectSettings/lilToonSetting.json
 # Picola
 atelier-of-amabie/Assets/Picola/
 atelier-of-amabie/Assets/Picola.meta
+
+# Basic Motions FREE
+atelier-of-amabie/Assets/Kevin Iglesias/
+atelier-of-amabie/Assets/Kevin Iglesias.meta
+
+# 隠蔽
+atelier-of-amabie/Assets/Resources/2022-11-01/Models/
+atelier-of-amabie/Assets/Resources/2022-11-01/Models.meta
+
+# vscode の中でデフォルトで生成されるものなので、無視しておく
+atelier-of-amabie/.vscode/settings.json
