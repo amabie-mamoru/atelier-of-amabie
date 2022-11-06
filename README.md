@@ -2,6 +2,14 @@
 
 ここはお題に対して自分らしいアートとは何かを考えて Unity Editor 上で実現するための空間
 
+# 動作確認で保証したもの
+
+端末|プロセッサ|性能
+---|---|---
+iPhone 12|Apple A14 Bionic|![](./doc/2022-11-01-RenderingBenchmark/apple-a14-bionic.png)
+iPhone SE (3rd)|Apple A15 Bionic|![](./doc/2022-11-01-RenderingBenchmark/apple-a15-bionic.png)
+Android Libero 5G II|MediaTek Dimensity 700|![](./doc/2022-11-01-RenderingBenchmark/dimensity-700.png)
+
 ## reference
 
 * [@lilxyzw](https://github.com/lilxyzw) さんの lilToon シェーダーをお借りしています ( [Booth - unitypackage 版](https://lilxyzw.booth.pm/items/3087170) )
